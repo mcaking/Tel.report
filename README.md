@@ -10,6 +10,6 @@ cd Tel.report
 ls
 
 
-python mcaking.py
+python mcareport.py
 
 
